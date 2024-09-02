@@ -1,0 +1,17 @@
+.one{
+    width: 500px;
+    height: 300px;
+    background: rgb(68, 255, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+.two{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+}
